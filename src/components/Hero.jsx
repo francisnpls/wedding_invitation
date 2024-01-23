@@ -8,7 +8,7 @@ const Hero = () => {
       <div className={`${styles.heroPadding} h-screen bg-plainWhite bg-center bg-no-repeat bg-cover`}>
         <div className="flex justify-center items-center relative">
           <img src={brown} alt="" className="sm:w-[80%] w-full sm:h-[150vh] h-[100vh] sm:border-[30px] sm:border-white"/>
-          <div className="absolute sm:top-[200px] xx:top-[150px] top-[70px] flex justify-center items-center flex-col sm:px-0 px-[50px]">
+          <div className="absolute sm:top-[200px] xx:top-[100px] top-[70px] flex justify-center items-center flex-col sm:px-0 px-[50px]">
             <p className="font-alegria italic sm:text-[24px] text-[18px] text-secondary tracking-[2px]">
               Together with their families
             </p>
