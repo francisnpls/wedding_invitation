@@ -23,7 +23,7 @@ const Hero = () => {
               April 27, 2024
             </p>
             <p className="font-alegria italic sm:text-[20px] txt-[18px]  text-secondary tracking-[2px] text-center mt-[5px]">
-              @ Salawag Church
+              @ Mary Immaculate Parish
             </p>
           </div>
         </div>
