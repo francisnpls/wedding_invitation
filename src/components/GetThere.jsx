@@ -11,7 +11,7 @@ const GetThere = () => {
         <div className="h-[100px] w-[1px] bg-[#b1a35c]"/>
         <div className="w-full flex flex-col justify-between items-center sm:gap-10 gap-[40px]">
           <div className="sm:w-[70%] w-full flex-1 flex flex-col items-center gap-[30px]">
-            <p className="font-alegria text-[30px] text-darker"> Salawag Church </p>
+            <p className="font-alegria text-[30px] text-darker"> Mary Immaculate Parish</p>
             <div className="flex sm:gap-10 gap-5 w-[90%] sm:flex-row flex-col justify-center items-center">
               <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15461.409402718435!2d120.9738044!3d14.3490092!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397d58865d023e9%3A0xae4616b6d226ba7f!2sMary%20Immaculate%20Parish%20-%20Salawag!5e0!3m2!1sen!2sph!4v1706010323899!5m2!1sen!2sph" className="w-full h-[300px]"></iframe>
               <img src={churchQR} alt="" className="sm:h-[50%] w-[150px]"/>
