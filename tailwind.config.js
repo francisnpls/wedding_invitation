@@ -22,7 +22,7 @@ module.exports = {
         flower: "url('/flower.jpg')",
         brownBg: "url('/brownflower.png')",
         greenBg: "url('/greenbg.jpg')",
-        sunflower: "url('/lip.png')",
+        sunflower: "url('/lips.jpg')",
       }
     },
     screens: {
