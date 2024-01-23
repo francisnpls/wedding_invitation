@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital@0;1&family=Alex+Brush&family=Bonheur+Royale&family=Great+Vibes&family=Montserrat:wght@100;300;400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
